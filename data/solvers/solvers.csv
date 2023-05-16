@@ -1,0 +1,4 @@
+method,f,g,rho,sigma
+admm,oracle,bm3d,2.5,0.72
+admm,lqm,dncnn,2.5,0.75
+fista,tr,tv,0.1,0.24

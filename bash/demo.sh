@@ -1,0 +1,11 @@
+python exp.py \
+--datadir data/sponge/val \
+--savedir result/demo \
+--solverdir data/solvers/solvers.csv \
+--etaRange 2. 8. \
+--lamb 20 \
+--n 200 \
+--maxIter 30 \
+--tol 5e-4 \
+--modeldir model/std25.ckpt \
+--device cpu
