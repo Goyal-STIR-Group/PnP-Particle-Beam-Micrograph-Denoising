@@ -1,5 +1,7 @@
 # Particle Beam Micrograph Denoising with Plug-and-play Methods
 
+[![DOI](https://zenodo.org/badge/641179077.svg)](https://zenodo.org/badge/latestdoi/641179077)
+
 This repository contains the code used to produce results in the paper "Denoising Particle Beam Micrographs with Plug-and-Play Methods" by Minxu Peng, Ruangrawee Kitichotkul, Sheila W. Seidel, Christopher Yu, and Vivek K. Goyal.
 
 ## Abstract
